@@ -1,0 +1,27 @@
+#conteudo{
+    width: 600px;
+    height: auto;
+    background: #E5E5E5;
+    margin: auto;
+}
+#cabecalho{
+    width: 600px;
+    background: #06C;
+    color: #fff;
+    font-size:20px;
+    text-align: center;
+    margin-top:50px;
+}
+#comentarios{
+    width: 600px;
+    font-size:16px;
+    line-height: 30px;
+}
+#comentarios ul{
+    padding: 3px;
+    margin: 3px;
+}
+#comentarios li{
+    list-style-type: none;
+    margin: 3px;
+   }
